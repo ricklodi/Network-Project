@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Walkthrough3-TCP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+  NetworkManager.cpp
+C:\Users\ricar\Desktop\St Lawrence - Game Programming\Fall 2022\GAME311 - Network Programming\Completed Labs\Walkthrough3\Walkthrough1\NetworkManager.cpp(251,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ricar\Desktop\St Lawrence - Game Programming\Fall 2022\GAME311 - Network Programming\Completed Labs\Walkthrough3\Walkthrough1\NetworkManager.cpp(268,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Walkthrough1.vcxproj -> C:\Users\ricar\Desktop\St Lawrence - Game Programming\Fall 2022\GAME311 - Network Programming\Completed Labs\Walkthrough3\x64\Debug\Network-TCP.exe
